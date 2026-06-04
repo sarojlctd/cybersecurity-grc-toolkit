@@ -13,6 +13,10 @@ Click on any section below to access the templates, checklists, and documentatio
 ### 🛠️ [Governance, Risk, & Compliance (GRC)](./GRC-Toolkit)
 *Operational tools to manage corporate risk and align with international standards.*
 * **[Risk Register & Scoring Matrix](./GRC-Toolkit/Risk-Register-Template.md):** A standardized matrix template for identifying, scoring, and tracking infrastructure and technical risks.
+* ### 🛠️ [Governance, Risk, & Compliance (GRC)](./GRC-Toolkit)
+*Operational tools to manage corporate risk and align with international standards.*
+* **[Risk Register & Scoring Matrix](./GRC-Toolkit/Risk-Register-Template.md):** A standardized matrix template for identifying, scoring, and tracking infrastructure and technical risks.
+* **[Cyber Hygiene Assessment Checklist](./GRC-Toolkit/Cyber-Hygiene-Checklist.md):** A foundational baseline security checklist focused on asset management, identity protection, patch deployment, and backup verification.
 
 ### 📋 [IT Audit & Assessment Checklists](./IT-Audit-Checklists)
 *Planned work programs for systematic control verification.*
